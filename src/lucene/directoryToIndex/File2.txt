@@ -1,0 +1,2 @@
+Arduino is an open-source electronics platform based on easy-to-use hardware and software.
+Arduino supports java.
